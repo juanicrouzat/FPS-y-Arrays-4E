@@ -65,7 +65,7 @@ PrefabInstance:
     - target: {fileID: 2767605452187396051, guid: 0b580fb7431cd0c4a881b416bf53a662,
         type: 3}
       propertyPath: valorAlimentario
-      value: 10
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 3369591641448509054, guid: 0b580fb7431cd0c4a881b416bf53a662,
         type: 3}
@@ -82,7 +82,8 @@ PrefabInstance:
       propertyPath: m_Center.y
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 3369196599858773000, guid: 0b580fb7431cd0c4a881b416bf53a662, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 0b580fb7431cd0c4a881b416bf53a662, type: 3}
 --- !u!4 &4939705956969792401 stripped
 Transform:

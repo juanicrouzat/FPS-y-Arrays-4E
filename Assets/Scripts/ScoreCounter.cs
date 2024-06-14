@@ -6,6 +6,8 @@ using UnityEngine.UI;
 public class ScoreCounter : MonoBehaviour
 {
 
+   
+
     public Text txtScore;
     public int score;
 
